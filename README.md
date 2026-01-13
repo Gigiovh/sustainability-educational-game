@@ -57,7 +57,7 @@
       <br /><small>Desenvolvedora</small>
     </td>
      <td align="center">
-      <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/8.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
+      <img src="https://avatars.githubusercontent.com/u/132583732?v=4" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/vinipera"><b>Vinícius Pereira</b></a>
       <br /><small>Desenvolvedor</small>
     </td>

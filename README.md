@@ -1,13 +1,15 @@
+# Jogo educacional sobre sustentabilidade 
+ <img  src="https://github.com/Gigiovh/-tica-s-game/blob/main/etica-game/VILURA/img/logo.png" alt="logo" min-width="160px" max-width="160px" width="160px" align="right">
+ 
+ <p align="left"> 
+ <b>Kaleb</b> é um jogo multiplataforma desenvolvido para ensinar de forma ética o descarte correto dos lixos.
+ Utilizando elementos de gamificação, ele informa desda conseqûencia do descarte inaproptiado de resídos ás maneiras de combater este problema de maneira  divertida e eficaz.
+   
+ O projeto nasce como uma resposta à negligência com meio ambiente recorrente na sociedade atualmente.
 
-
-<div align="center">
-<img src="https://github.com/Gigiovh/-tica-s-game/blob/main/etica-game/VILURA/img/logo.png" alt="logo"  height="280px">
-<h1 align="center">Ética's Game</h1>
-
-
-<p>Este jogo tem como objetivo consetizar as crianças sobre o ciclo do lixo de forma ética e sustentável <span style="color:#ffb301"> ♻️</span></p></div>
-  <br>
-<h3 style="color: #e4a002" align="center" >Personagens ♡ </h3>
+ 
+ </p>
+  ## Personagens do Jogo
  <table align="center" >
   <tr align="center" >
     <td align="center" gap="30px">
@@ -21,14 +23,12 @@
     </td>
   </tr>
  </table>
- <hr><br>
-<h3  >Linguagens Utilizadas</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-  </a>
-<br>
-<br>
-<h2 >🧑‍💻 Autores</h2>
+ <br>
+
+ ## 🤝 Colaboradores
+ 
+ Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
 <table>
   <tr>
     <td align="center">
@@ -67,6 +67,5 @@
   
 </ul>
    
-  </tr>
-</table>
+
 

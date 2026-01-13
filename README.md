@@ -57,9 +57,9 @@
       <br /><small>Desenvolvedora</small>
     </td>
      <td align="center">
-      <img src="assets/Captura de tela 2024-10-09 204242.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
-      <br /><a href="https://github.com/Lale-Araujo"><b>Maria Eduarda</b></a>
-      <br /><small>Desenvolvedora</small>
+      <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/8.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
+      <br /><a href="https://github.com/vinipera"><b>Vinícius Pereira</b></a>
+      <br /><small>Desenvolvedor</small>
     </td>
      <td align="center">
       <img src="https://avatars.githubusercontent.com/u/132583860?v=4" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
